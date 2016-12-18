@@ -66,3 +66,11 @@ the size of the deck. So with n the size of the deck n * I will be the deck
 where each card is at its initial position and the matrix with 1 everywhere
 will be the uniformely distributed one.
 
+## TODO list
+[ ] Do a function that compute the "efficienty" of the shuffle matrix
+[ ] Do a function that given a random shuffle function return a approximation
+of the corresponding shuffle matrix
+[ ] Add a way to handle a deck with the same card multiple times.
+[ ] Clarify readme
+[ ] Implement Faro shuffle
+[ ] Add other types of shuffle
