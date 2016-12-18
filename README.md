@@ -16,7 +16,7 @@ involves randmness ("Take the first card and put it whether at the top or at
 the bottom of the deck") So I need something better.
 
 My idea is to use matrices (because matrices are cool) where Mij is the 
-probability to put the i card at the j place. So I (the identity matrix) 
+probability to put the *j* card at the *i* place. So I (the identity matrix) 
 represent no shuffling, and for a deck of three card the matrix
 [ 0 0 1
   0 1 0
